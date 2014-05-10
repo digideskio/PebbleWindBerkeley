@@ -1,0 +1,18 @@
+{
+    "longName": "WindBerkeley",
+    "versionCode": 1,
+    "shortName": "WindBerkeley",
+    "capabilities": [
+        ""
+    ],
+    "resources": {
+        "media": []
+    },
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    },
+    "uuid": "43210a84-92c5-4c63-876f-95fc3e806b0e",
+    "appKeys": {},
+    "companyName": "laurent@wit.ai"
+}
